@@ -1,14 +1,16 @@
 import React from 'react';
-import { Navbar } from './components/Navbar';
-
+import { Form } from './components/Form';
+import { MainCard } from './components/MainCard';
 import './App.css';
 
 function App() {
   return (
-  
 
-    <div>
-      <Navbar />
+    <div>   
+
+      <MainCard />
+      <Form />
+
     </div>
   );
 }

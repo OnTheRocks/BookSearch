@@ -1,0 +1,28 @@
+body{
+  background-color: #212121 ;
+}
+
+.width30 {
+  width: 30%;
+}
+
+.card-panel, .row{
+  border-radius: .4em;
+  margin-bottom: 0;
+}
+
+.bt::placeholder{
+  color: #424242;
+}
+
+
+.links{
+  padding: 15px ;
+  font-size:24px;  
+}
+
+.pH{
+  font-size: 24px;
+}
+
+
